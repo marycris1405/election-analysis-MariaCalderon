@@ -44,4 +44,5 @@ With the use of loops and conditional statements calculate the voter turnout for
     * Arapahoe had 6.7% of the votes and 24,801 number of votes.
     
    * The largest County turnout of the elecion was:
+   
     * Denver
